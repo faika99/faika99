@@ -14,4 +14,6 @@
 
 Documents
 
-Social Networks
+## Contact me
+[![Telegram](https://img.shields.io/badge/-Telegram-1c1f21?style=flat-square&logo=telegram)](https://t.me/faika99)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-1c1f21?style=flat-square&logo=whatsapp)](https://wa.me/79652997660)
