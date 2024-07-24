@@ -5,6 +5,10 @@
 ## My CV
 [My CV]()
 
+## My Setificates
+
+- [Тестирование ПО с нуля. Теория и практика](https://stepik.org/cert/2527897)
+
 ## Languages and Tools
 ![DevTools](https://img.shields.io/badge/-DevTools-1c1f21?style=flat-square&logo=googlechrome)
 ![Jira](https://img.shields.io/badge/-Jira-1c1f21?style=flat-square&logo=Jira)
