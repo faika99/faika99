@@ -2,6 +2,9 @@
 
 ## Тестировщик ПО (QA-engineer)
 
+## My CV
+[My CV]()
+
 ## Languages and Tools
 ![DevTools](https://img.shields.io/badge/-DevTools-1c1f21?style=flat-square&logo=googlechrome)
 ![Jira](https://img.shields.io/badge/-Jira-1c1f21?style=flat-square&logo=Jira)
@@ -12,7 +15,10 @@
 ![AzureDevops](https://img.shields.io/badge/-AzureDevops-1c1f21?style=flat-square&logo=azuredevops)
 ![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-1c1f21?style=flat-square&logo=CharlesProxy)
 
-Documents
+## Testing Documentation
+- [Checlists](https://github.com/faika99/Checlists)
+- [Test-cases](https://github.com/faika99/Test-cases)
+- [Postman collections](https://github.com/faika99/Postman-collections)
 
 ## Contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-1c1f21?style=flat-square&logo=telegram)](https://t.me/faika99)
