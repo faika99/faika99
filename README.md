@@ -21,8 +21,7 @@
 ![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-1c1f21?style=flat-square&logo=CharlesProxy)
 
 ## Testing Documentation
-- [Checlists](https://github.com/faika99/Checlists)
-- [Test-cases](https://github.com/faika99/Test-cases)
+- [Checlists and Test-cases](https://github.com/faika99/Checlists-and-Test-cases)
 - [Bug-reports](https://github.com/faika99/Bug-reports/tree/main)
 - [Postman collections](https://github.com/faika99/Postman-collections)
 
