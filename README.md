@@ -23,6 +23,7 @@
 ## Testing Documentation
 - [Checlists](https://github.com/faika99/Checlists)
 - [Test-cases](https://github.com/faika99/Test-cases)
+- [Bug-reports](https://github.com/faika99/Bug-reports/tree/main)
 - [Postman collections](https://github.com/faika99/Postman-collections)
 
 ## Contact me
