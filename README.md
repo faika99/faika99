@@ -11,6 +11,7 @@
 - [Postman-ниндзя: с нуля до автотестов](https://stepik.org/cert/2531806)
 
 ## Languages and Tools
+![Java](https://img.shields.io/badge/-Java-1c1f21?style=flat-square&logo=Java)
 ![Jira](https://img.shields.io/badge/-Jira-1c1f21?style=flat-square&logo=Jira)
 ![Postman](https://img.shields.io/badge/-Postman-1c1f21?style=flat-square&logo=Postman)
 ![SQL](https://img.shields.io/badge/-SQL-1c1f21?style=flat-square&logo=mySQL)
@@ -21,9 +22,10 @@
 ![CharlesProxy](https://img.shields.io/badge/-CharlesProxy-1c1f21?style=flat-square&logo=CharlesProxy)
 
 ## Testing Documentation
+- [Java](https://github.com/faika99/Java)
 - [Checlists and Test-cases](https://github.com/faika99/Checlists-and-Test-cases)
-- [Bug-reports](https://github.com/faika99/Bug-reports/tree/main)
-- [Postman collections](https://github.com/faika99/Postman-collections)
+- [Bug-reports](https://fainash.atlassian.net/jira/projects)
+- [Postman collections](https://www.postman.com/faika99/workspace/faina-shestakova)
 
 ## Contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-1c1f21?style=flat-square&logo=telegram)](https://t.me/faika99)
