@@ -3,7 +3,7 @@
 ## Тестировщик ПО (QA-engineer)
 
 ## My CV
-[My CV]()
+[My CV](https://github.com/faika99/faika99/blob/main/assets/CV_Shestakova.pdf)
 
 ## My Setificates
 
