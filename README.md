@@ -5,10 +5,11 @@
 ## My CV
 [My CV](https://github.com/faika99/faika99/blob/main/assets/CV_Shestakova.pdf)
 
-## My Setificates
+## Courses
 
 - [Тестирование ПО с нуля. Теория и практика](https://stepik.org/cert/2527897)
 - [Postman-ниндзя: с нуля до автотестов](https://stepik.org/cert/2531806)
+- [Автоматизация тестирования на Java](https://qa.guru/java)
 
 ## Languages and Tools
 ![Java](https://img.shields.io/badge/-Java-1c1f21?style=flat-square&logo=Java)
